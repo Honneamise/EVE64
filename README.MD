@@ -1,6 +1,6 @@
 # EVE 64
 
-EVE QUEST : a game to celebrate EVE's 20th Anniversary !
+EVE64 : a game to celebrate EVE's 20th Anniversary !
 
 ![image](img.jpg)
 
