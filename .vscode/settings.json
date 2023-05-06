@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "conio.h": "c",
+        "ctime": "cpp",
+        "string.h": "c",
+        "timer.h": "c",
+        "stuff.h": "c",
+        "player.h": "c",
+        "races.h": "c",
+        "names.h": "c",
+        "items.h": "c",
+        "enemies.h": "c",
+        "missions.h": "c"
+    }
+}
